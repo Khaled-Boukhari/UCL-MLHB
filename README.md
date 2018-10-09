@@ -12,4 +12,9 @@ http://archive.ics.uci.edu/ml/machine-learning-databases/mammographic-masses/mam
 Installation of Python 3.6 and jupyter notebooks required to run the notebook. 
 
 Additionally, the following python libraries are required
-* numpy, scipy, matplotlib, pandas
+* numpy
+* scipy
+* matplotlib
+* pandas
+* scikit-learn
+* seaborn
