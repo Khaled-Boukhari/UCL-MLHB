@@ -18,3 +18,7 @@ Additionally, the following python libraries are required
 * pandas
 * scikit-learn
 * seaborn
+
+## Authors
+
+Khaled Boukhari
